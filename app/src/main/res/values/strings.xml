@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Car controller</string>
+    <string name="gas_ml">%1$dmi</string>
+    <string name="not_implemented">Not implemented yet…</string>
+    <string name="last_updated">Updated 1min ago</string>
+
+    <string name="tab_home">Home</string>
+    <string name="tab_vehicle">Vehicle</string>
+    <string name="tab_location">Location</string>
+    <string name="tab_settings">Settings</string>
+
+    <string name="doors">Doors</string>
+    <string name="car_locked">Locked</string>
+    <string name="car_unlocked">Unlocked</string>
+    <string name="dots">…</string>
+
+    <string name="engine">Engine</string>
+    <string name="engine_start">Start</string>
+    <string name="engine_stop">Stop</string>
+    <string name="engine_stopped">Stopped</string>
+
+    <string name="message_start_engine">Start engine</string>
+    <string name="message_stop_engine">Stop engine</string>
+
+    <string name="dialog_title">Are you sure?</string>
+    <string name="dialog_description">Are you sure you want to %1$s the doors of %2$s</string>
+    <string name="dialog_action_positive">Yes, %1$s</string>
+    <string name="dialog_action_negative">Cancel</string>
+
+    <string name="message_car_locked">Doors locked successfully</string>
+    <string name="message_car_unlocked">Doors unlocked successfully</string>
+</resources>
